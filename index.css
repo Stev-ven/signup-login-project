@@ -1,0 +1,21 @@
+body{
+    padding:50px;
+    background: rgb(201, 193, 193);
+    color: #f5f5f5;
+}
+h1{
+    text-align: center;
+    
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    /*box-shadow: rgba(17, 17, 19, 0.685) 0px 7px 29px 0px;*/
+}
+.form-group{
+    margin-bottom:30px;
+}
+.p-text{
+    color: blue;
+}
